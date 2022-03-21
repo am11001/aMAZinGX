@@ -28,5 +28,5 @@ Arrow keys to move(Left & Right)
 
 Enjoy!
 
-Made by @B11rdman  & @ninja1001
+
 
